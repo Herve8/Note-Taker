@@ -1,1 +1,2 @@
-[{"title":"Test Title","text":"Test text"}]
+[{ "_comment1": "This heading will appear in the note editor in Heroku",
+    "title":"Welcome to notes","text":"Please add new notes"}]
