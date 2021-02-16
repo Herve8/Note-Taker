@@ -46,7 +46,7 @@ The following apps and dependencies were installed:
 ## Video demonstration
 Please view a demonstration video showing how the app works. Thanks.
 
-
+![notetaker](https://user-images.githubusercontent.com/16859648/108037276-55076f80-7074-11eb-985d-b167799c73a3.gif)
 
 
 
