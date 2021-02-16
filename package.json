@@ -1,0 +1,26 @@
+{
+  "name": "notetakerjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Herve8/notetakerjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Herve8/notetakerjs/issues"
+  },
+  "homepage": "https://github.com/Herve8/notetakerjs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "path": "^0.12.7"
+    }
+  }
